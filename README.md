@@ -1,3 +1,5 @@
 # demo
-This is my first Git Repository.Author- vijay saini
+This is my first Git Repository.
+<br>
+Author- vijay saini
 
